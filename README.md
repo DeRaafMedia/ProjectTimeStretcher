@@ -10,3 +10,5 @@ He used the technique in some of his installations ('Alberts Ark' -> http://www.
 The technique used is called 'slit scanning'. A very nice explanation can be found -> https://www.youtube.com/watch?v=KhRo2WbWnKU .
 
 A page with slit scan art links and resources->  http://www.flong.com/texts/lists/slit_scan/
+
+An HTML5 rewrite of the 'Time Strecher' -> https://github.com/DNArt/Timestretcher/blob/master/README.md
