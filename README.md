@@ -1,7 +1,9 @@
 ProjectTimeStretcher
 ====================
 
-This is  rewrite of a Processing.org sketch to openframeworks. 
+This project was writen more than 6 years ago as an exploration of openCV and what I could do with it in the Processing.org enviroment.
+
+Since I upgraded to Yosemite a lot of old Processing sketches broke, rather than fixing the problem I wanted to do a complete rewrite (JAVA is dead?). 
 
 I wrote the Proccesing sketch while working for Bill Spinhoven as an emulation of his prior art (was a neat exercise). 
 
