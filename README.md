@@ -5,7 +5,11 @@ This project was writen more than 6 years ago as an exploration of openCV and wh
 
 Since I upgraded to Yosemite a lot of old Processing sketches broke, rather than fixing the problem I wanted to do a complete rewrite (JAVA is dead?). 
 
-I wrote the Proccesing sketch while working for Bill Spinhoven as an emulation of his prior art (was a neat exercise). 
+I wrote the Proccesing sketch while working for Bill Spinhoven as an emulation of his prior art (was a neat exercise).
+
+=====================
+[alt tag](https://github.com/DeRaafMedia/ProjectTimeStretcher/blob/master/bin/data/TimeStretcher.png)
+=====================
 
 He used the technique in some of his installations ('Alberts Ark' -> http://www.li-ma.nl/site/catalogue/doc/bill-spinhoven/alberts-ark-registratie-imago-kunstrai-1990/7833, 'Time Stretcher', e.a).
 
