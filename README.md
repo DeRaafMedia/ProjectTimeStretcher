@@ -7,9 +7,9 @@ Since I upgraded to Yosemite a lot of old Processing sketches broke, rather than
 
 I wrote the Proccesing sketch while working for Bill Spinhoven as an emulation of his prior art (was a neat exercise).
 
-=====================
+
 ![alt tag](https://github.com/DeRaafMedia/ProjectTimeStretcher/blob/master/bin/data/TimeStretcher.png)
-=====================
+
 
 He used the technique in some of his installations ('Alberts Ark' -> http://www.li-ma.nl/site/catalogue/doc/bill-spinhoven/alberts-ark-registratie-imago-kunstrai-1990/7833, 'Time Stretcher', e.a).
 
