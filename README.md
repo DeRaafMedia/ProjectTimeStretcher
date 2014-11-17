@@ -11,7 +11,7 @@ I wrote the Proccesing sketch while working for Bill Spinhoven as an emulation o
 ![alt tag](https://github.com/DeRaafMedia/ProjectTimeStretcher/blob/master/bin/data/TimeStretcher.png)
 
 
-He used the technique in some of his installations ('Alberts Ark' -> http://www.li-ma.nl/site/catalogue/doc/bill-spinhoven/alberts-ark-registratie-imago-kunstrai-1990/7833, 'Time Stretcher', e.a).
+Bill Spinhoven used the technique in some of his installations ('Alberts Ark' -> http://www.li-ma.nl/site/catalogue/doc/bill-spinhoven/alberts-ark-registratie-imago-kunstrai-1990/7833, 'Time Stretcher', e.a).
 
 The technique used is called 'slit scanning'. A very nice explanation can be found -> https://www.youtube.com/watch?v=KhRo2WbWnKU .
 
